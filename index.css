@@ -1,0 +1,46 @@
+@font-face {
+    font-family: VietnamPro;
+    src: url("./fonts/VietnamPro.ttf");
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url("./fonts/OpenSans.ttf")
+}
+
+a 
+{
+    color: rgb(6, 81, 128);
+    text-decoration: none;
+
+}
+
+a:visited {
+    color:rgb(6, 81, 128);
+}
+
+a:hover {
+    color: lightslategray;
+}
+
+body 
+{font-family: OpenSans;
+    background-color:rgb(236, 232, 218);
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-family: VietnamPro;
+    font-weight: bold;
+color:rgb(2, 2, 73);
+font-style: oblique}
+
+h2 {
+    font-family:VietnamPro;
+    font-weight: bold;
+color:rgb(2, 2, 73);
+font-style: initial}
+
