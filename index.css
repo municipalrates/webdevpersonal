@@ -25,11 +25,12 @@ a:hover {
 
 body 
 {font-family: OpenSans;
+    font-size: 12px;
     background-color:rgb(236, 232, 218);
-    margin-top: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 50px;
+    margin-top: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 25px;
 }
 
 h1 {
