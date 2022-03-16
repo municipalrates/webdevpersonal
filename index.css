@@ -25,23 +25,24 @@ a:hover {
 
 body 
 {font-family: OpenSans;
-    font-size: 12px;
+    font-size: 13px;
     background-color:rgb(236, 232, 218);
     margin-top: 25px;
-    margin-left: 250px;
-    margin-right: 250px;
-    margin-bottom: 25px;
+    margin-left: 150px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+    line-height: 1.7;
 }
 
 h1 {
     font-family: VietnamPro;
     font-weight: bold;
-color:rgb(2, 2, 73);
-font-style: oblique}
+    color:rgb(2, 2, 73);
+    font-style: oblique;
+    text-align: right;}
 
 h2 {
     font-family:VietnamPro;
     font-weight: bold;
-color:rgb(2, 2, 73);
-font-style: initial}
-
+    color:rgb(2, 2, 73);
+    font-style: initial}
